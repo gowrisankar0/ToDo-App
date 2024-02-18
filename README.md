@@ -1,7 +1,7 @@
  <h2>Usage</h2>
 
-    <h3>Adding a Todo</h3>
-    <ol>
+   <h3>Adding a Todo</h3>
+   <ol>
         <li>Open the application in your web browser.</li>
         <li>Enter a new task:
             <ul>
@@ -15,7 +15,7 @@
         </li>
     </ol>
 
-    <h3>Completing a Todo</h3>
+   <h3>Completing a Todo</h3>
     <ul>
         <li>To mark a task as complete:</li>
         <ul>
@@ -23,7 +23,7 @@
         </ul>
     </ul>
 
-    <h3>Deleting a Todo</h3>
+   `` <h3>Deleting a Todo</h3>
     <ul>
         <li>To delete a task:</li>
         <ul>
@@ -31,7 +31,7 @@
         </ul>
     </ul>
 
-    <h3>Filtering Todos</h3>
+   `` <h3>Filtering Todos</h3>
     <ul>
         <li>To filter tasks based on their completion status:</li>
         <ul>

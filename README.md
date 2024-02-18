@@ -37,6 +37,15 @@
         </ul>
     </ul>
 
+
+<h3>Sample Output</h3>
+
+
+![Uploading checked.png…]()
+
+
+    
+
    `` <h3>Deleting a Todo</h3>
     <ul>
         <li>To delete a task:</li>

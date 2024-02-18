@@ -1,7 +1,7 @@
  <h2>Usage</h2>
 
  <h2>Live Preview Click Below</h2>
- <h2><a href="https://incredible-boba-e5f95c.netlify.app/">Deployed Version</a></h2>
+ <h2><a href="https://incredible-boba-e5f95c.netlify.app/">Live Site Here</a></h2>
 
    <h3>Adding a Todo</h3>
    <ol>

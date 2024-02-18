@@ -22,8 +22,11 @@
 <h3>Sample Output</h3>
 
 
-<img src="![Screenshot 2024-02-18 103034](https://github.com/gowrisankar0/ToDo-App/assets/113678338/9dcb194c-0679-4068-ba0c-ce5be79abc29)
-" alt="output image" />
+
+
+
+![Screenshot 2024-02-18 103034](https://github.com/gowrisankar0/ToDo-App/assets/113678338/bd144f67-fe4a-452e-a506-733e02ba07ee)
+
     
 
    <h3>Completing a Todo</h3>
